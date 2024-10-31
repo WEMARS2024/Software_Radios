@@ -1,2 +1,3 @@
 # Software_Radios
-Radios 
+
+Getting the radio mounted on the servo to rotate.
